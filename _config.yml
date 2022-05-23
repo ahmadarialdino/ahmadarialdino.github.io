@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahmad Ari ALDINO"
+title                    : "Ahmad Ari Aldino"
 title_separator          : "-"
-name                     : &name "Ahmad Ari ALDINO"
+name                     : &name "Ahmad Ari Aldino"
 description              : &description "Assistant Professor of Data Science at Universitas Teknokrat Indonesia"
 url                      : https://ahmadarialdino.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ahmad Ari ALDINO"
-  avatar           : "profile.png"
+  name             : "Ahmad Ari Aldino"
+  avatar           : "https://i1.rgstatic.net/ii/profile.image/1142064033087488-1649300692733_Q512/Ahmad-Aldino.jpg"
   bio              : "Lecturer at Universitas Teknokrat Indonesia"
   location         : 
   employer         :
