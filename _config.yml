@@ -83,9 +83,9 @@ author:
   name             : "Ahmad Ari ALDINO"
   avatar           : "profile.png"
   bio              : "Lecturer at Universitas Teknokrat Indonesia"
-  location         : "Location"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.id/citations?user=hWAWKPwAAAAJ&hl=en"
   email            : "aldino@teknokrat.ac.id"
   researchgate     : "https://www.researchgate.net/profile/Ahmad-Aldino"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ahmadarialdino/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "ahmadarialdino"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ahmadarialdino"
   vine             :
   weibo            :
   xing             :
