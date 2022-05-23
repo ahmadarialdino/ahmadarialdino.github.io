@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahmad Ari Aldino"
+title                    : "Ahmad Ari ALDINO"
 title_separator          : "-"
-name                     : &name "Ahmad Ari Aldino"
+name                     : &name "Ahmad Ari ALDINO"
 description              : &description "Assistant Professor of Data Science at Universitas Teknokrat Indonesia"
 url                      : https://ahmadarialdino.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ahmad Ari ALDINO"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Lecturer at Universitas Teknokrat Indonesia"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.id/citations?user=hWAWKPwAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "aldino@teknokrat.ac.id"
+  researchgate     : "https://www.researchgate.net/profile/Ahmad-Aldino"
   uri              :
   bitbucket        :
   codepen          :
