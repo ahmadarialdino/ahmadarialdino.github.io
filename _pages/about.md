@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ahmad Ari Aldino is an assistant professor at the Faculty of Engineering and Computer Sciences, Universitas Teknokrat Indonesia. He received BSc and MSc in Mathematics from Universitas Lampung, Indonesia. Currently, he is the head of the Institute for Research and Community Service Universitas Teknokrat Indonesia. He is also a member of the Data Science Research Group, which aims to generate insights from data, allowing us to discover meaningful patterns and make predictions to support decision-making. His research interest includes Applied Statistics, Data Mining, Natural Language Processing, and Image Processing.
+Ahmad Ari Aldino is an assistant professor at the Faculty of Engineering and Computer Sciences, [Universitas Teknokrat Indonesia] (https://teknokrat.ac.id/). He received BSc and MSc in Mathematics from [Universitas Lampung] ([https://www.unila.ac.id/en/]), Indonesia. Currently, he is the head of the Institute for Research and Community Service Universitas Teknokrat Indonesia. He is also a member of the Data Science Research Group, which aims to generate insights from data, allowing us to discover meaningful patterns and make predictions to support decision-making. His research interest includes Applied Statistics, Data Mining, Natural Language Processing, and Image Processing.
 
 A data-driven personal website
 ======
