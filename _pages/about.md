@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Ahmad Ari Aldino is an assistant professor at the Faculty of Engineering and Computer Sciences, [Universitas Teknokrat Indonesia] (https://teknokrat.ac.id/). He received BSc and MSc in Mathematics from [Universitas Lampung] ([https://www.unila.ac.id/en/]), Indonesia. Currently, he is the head of the Institute for Research and Community Service Universitas Teknokrat Indonesia. He is also a member of the Data Science Research Group, which aims to generate insights from data, allowing us to discover meaningful patterns and make predictions to support decision-making. His research interest includes Applied Statistics, Data Mining, Natural Language Processing, and Image Processing.
+Ahmad Ari Aldino is an assistant professor at the Faculty of Engineering and Computer Sciences, [Universitas Teknokrat Indonesia](https://teknokrat.ac.id/). He received BSc and MSc in Mathematics from [Universitas Lampung](https://www.unila.ac.id/en/), Indonesia. Currently, he is the head of the Institute for Research and Community Service Universitas Teknokrat Indonesia. He is also a member of the Data Science Research Group, which aims to generate insights from data, allowing us to discover meaningful patterns and make predictions to support decision-making. His research interest includes Applied Statistics, Data Mining, Natural Language Processing, and Image Processing.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 Getting started
 ======
