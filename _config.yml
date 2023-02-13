@@ -11,9 +11,9 @@ title                    : "Ahmad Ari Aldino"
 title_separator          : "-"
 name                     : &name "Ahmad Ari Aldino"
 description              : &description "Assistant Professor of Data Science at Universitas Teknokrat Indonesia"
-url                      : https://ahmadarialdino.github.io
+url                      : https://ahmadaldino.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ahmadarialdino/ahmadarialdino.github.io"
+repository               : "ahmadarialdino/ahmadaldino.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
