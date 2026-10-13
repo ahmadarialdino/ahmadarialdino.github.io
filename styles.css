@@ -60,3 +60,4 @@ a:hover>.ext{transform:translate(2px,-2px)}
 .agendaGrid p{font-family:Georgia,serif;color:var(--muted);margin:0}
 @media(max-width:850px){.agendaGrid{grid-template-columns:1fr}}
 .status.review{background:#fff4e0;color:#9a5b00}
+.actions{flex-wrap:wrap}.button .ext{margin-left:6px}
