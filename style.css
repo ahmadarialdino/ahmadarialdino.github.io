@@ -22,7 +22,7 @@ a:hover { text-decoration: underline; }
 h1, h2, h3 { font-family: var(--serif); color: var(--navy); margin: 0; }
 
 /* Top nav: always visible, scrolls sideways on small screens */
-.topnav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 24px; padding: 0 32px; height: 52px; background: rgba(251,250,247,.94); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); }
+.topnav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 0 max(32px, calc((100% - 1120px) / 2 + 32px)); height: 52px; background: rgba(251,250,247,.94); backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); }
 .brand { font-family: var(--serif); font-weight: 700; color: var(--navy); white-space: nowrap; }
 .navlinks { display: flex; gap: 20px; overflow-x: auto; scrollbar-width: none; font-size: 14px; }
 .navlinks::-webkit-scrollbar { display: none; }
