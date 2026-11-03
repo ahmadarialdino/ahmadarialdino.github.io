@@ -5,9 +5,9 @@
   --bg: #fbfaf7;
   --card: #ffffff;
   --navy: #0b2a4f;
-  --accent: #0e7c7b;
-  --accent-ink: #0a5c5b;
-  --accent-soft: #e3f2f1;
+  --accent: #a16207;
+  --accent-ink: #7c4a03;
+  --accent-soft: #fbf1dc;
   --green: #1f7a4d;
   --green-soft: #e6f4ec;
   --amber: #8a5300;
@@ -75,7 +75,7 @@ p { margin: 0 0 12px; }
 .studies p { margin: 6px 0 8px; font-size: 15px; color: var(--muted); }
 .tag { display: inline-block; font-size: 12px; font-weight: 600; padding: 3px 9px; border-radius: 6px; }
 .tag.pub { background: var(--accent-soft); color: var(--accent-ink); }
-.tag.review { background: var(--amber-soft); color: var(--amber); }
+.tag.review { background: #e8eef5; color: var(--navy); }
 .tag.prep { background: #eef0f3; color: var(--muted); }
 .note { margin-top: 16px; padding: 14px 16px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; font-size: 15px; }
 
